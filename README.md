@@ -1,10 +1,10 @@
-# A stronger implementation for IndexNet.
+# A stronger implementation of IndexNet.
 
-Yet another implementation for the paper [**Indices Matter: Learning to Index for Deep Image Matting**](https://arxiv.org/abs/1908.00672)
+Yet another implementation of the paper [**Indices Matter: Learning to Index for Deep Image Matting**](https://arxiv.org/abs/1908.00672)
 
 ## Description
 
-A stronger implementation for IndexNet.
+A stronger implementation of IndexNet.
 
 ## Requirements
 #### Hardware:
